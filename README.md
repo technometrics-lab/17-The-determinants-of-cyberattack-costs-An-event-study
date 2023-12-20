@@ -33,7 +33,7 @@ Short description of the files:
 | File name        | Short Description  |  
 | ------------- |:-------------:| 
 | function_definitions.py | defines of all the functions used in the other files |
-| event_study_prc.py | analyses and processes the cyber breach dataset from [Privacy Rights Clearinghouse][https://privacyrights.org/data-breaches] |
+| event_study_prc.py | analyses and processes the cyber breach dataset from [Privacy Rights Clearinghouse](https://privacyrights.org/data-breaches) |
 | event_study_refinitiv.py | merges of the Refinitiv news data with the stock information data |
 | event_study_CAR_OLS.py | estimates CARs with OLS and the associated t-test statistics |
 | event_study_CAR_SURE.py | estimates CARs with SURE and the associated t-test statistics |
